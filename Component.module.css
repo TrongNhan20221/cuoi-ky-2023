@@ -1,0 +1,9 @@
+.div {
+  position: relative;
+  width: 100%;
+  height: 315px;
+  background-image: url(./public/37-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}

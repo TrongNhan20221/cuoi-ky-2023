@@ -1,0 +1,79 @@
+.frame-child4,
+.frame-child5,
+.frame-child6,
+.frame-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 93px;
+  height: 42px;
+}
+.frame-child5,
+.frame-child6,
+.frame-child7 {
+  top: 105px;
+  height: 44px;
+}
+.frame-child6,
+.frame-child7 {
+  top: 208px;
+  width: 66px;
+  height: 41px;
+}
+.frame-child7 {
+  top: 324px;
+  left: 9px;
+  width: 133px;
+  height: 34px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 93px;
+  left: 53px;
+  width: 142px;
+  height: 358px;
+}
+.adobe-photoshop1 {
+  position: absolute;
+  top: 108px;
+  left: 66px;
+  font-weight: 300;
+}
+.frame-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 805px;
+  height: 702px;
+  background-image: url(./public/screenshot-1-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.visual-studio-code1 {
+  position: absolute;
+  top: 320px;
+  left: 62px;
+  font-weight: 300;
+}
+.adobe-illustrator1,
+.adobe-premiere1 {
+  position: absolute;
+  top: 424px;
+  left: 66px;
+  font-weight: 300;
+}
+.adobe-illustrator1 {
+  top: 215px;
+  left: 65px;
+}
+.frame-root {
+  position: relative;
+  width: 100%;
+  height: 702px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

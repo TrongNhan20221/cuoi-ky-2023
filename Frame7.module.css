@@ -1,0 +1,52 @@
+.frame-child8,
+.frame-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-mediumorchid-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.45);
+  width: 316px;
+  height: 328px;
+}
+.frame-child9 {
+  top: 91px;
+  left: 112px;
+  background-color: var(--color-goldenrod);
+}
+.p-20220626-140807-copy-11 {
+  position: absolute;
+  top: 21px;
+  left: 26px;
+  width: 390px;
+  height: 388px;
+  object-fit: cover;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 428px;
+  height: 419px;
+}
+.name-duong-trong1 {
+  margin-block-start: 0;
+  margin-block-end: 14px;
+}
+.studenttdmueduvn1 {
+  margin: 0;
+}
+.name-duong-trong-container1 {
+  position: absolute;
+  top: 454px;
+  left: 26px;
+  font-weight: 300;
+}
+.frame-top {
+  position: relative;
+  width: 100%;
+  height: 804px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

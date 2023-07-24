@@ -1,0 +1,249 @@
+.e13a32e4ca8f2d3563612647cc3ff0-icon1 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  backdrop-filter: blur(20px);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 329px;
+  height: 1086px;
+}
+.group-child1,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 324px;
+  background-color: var(--color-gainsboro);
+  width: 1596px;
+  height: 1086px;
+}
+.group-child1 {
+  top: 1px;
+  background-color: var(--color-white);
+  height: 1085px;
+}
+.about-me1,
+.frame-19-button {
+  position: absolute;
+  width: 250px;
+}
+.about-me1 {
+  top: 10px;
+  left: 0;
+  display: inline-block;
+  font-weight: 700;
+  height: 65px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+}
+.frame-19-button {
+  top: 50px;
+  left: 1342px;
+  background-color: var(--color-mediumorchid-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  height: 75px;
+  color: var(--color-white);
+}
+.project1 {
+  position: absolute;
+  top: 10px;
+  left: 4px;
+  display: inline-block;
+  font-weight: 700;
+  width: 175px;
+  height: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+}
+.frame-18-button {
+  position: absolute;
+  top: 50px;
+  left: 1616px;
+  background-color: var(--color-mediumorchid-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 180px;
+  height: 75px;
+  cursor: pointer;
+}
+.home1 {
+  position: absolute;
+  top: 10px;
+  left: 2px;
+  display: inline-block;
+  font-weight: 700;
+  width: 175px;
+  height: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+}
+.frame-20-button,
+.frame-child,
+.frame-item {
+  position: absolute;
+  background-color: var(--color-mediumorchid-100);
+}
+.frame-20-button {
+  top: 50px;
+  left: 1129px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 179px;
+  height: 75px;
+  cursor: pointer;
+}
+.frame-child,
+.frame-item {
+  top: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.45);
+  width: 316px;
+  height: 328px;
+}
+.frame-item {
+  top: 91px;
+  left: 112px;
+  background-color: var(--color-goldenrod);
+}
+.p-20220626-140807-copy-1 {
+  position: absolute;
+  top: 21px;
+  left: 26px;
+  width: 390px;
+  height: 388px;
+  object-fit: cover;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 428px;
+  height: 419px;
+}
+.name-duong-trong {
+  margin-block-start: 0;
+  margin-block-end: 14px;
+}
+.studenttdmueduvn {
+  margin: 0;
+}
+.name-duong-trong-container {
+  position: absolute;
+  top: 454px;
+  left: 26px;
+  font-weight: 300;
+}
+.frame-parent {
+  position: absolute;
+  top: 187px;
+  left: 471px;
+  width: 651px;
+  height: 804px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.frame-child1,
+.frame-child2,
+.frame-child3,
+.frame-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 93px;
+  height: 42px;
+}
+.frame-child1,
+.frame-child2,
+.frame-child3 {
+  top: 105px;
+  height: 44px;
+}
+.frame-child2,
+.frame-child3 {
+  top: 208px;
+  width: 66px;
+  height: 41px;
+}
+.frame-child3 {
+  top: 324px;
+  left: 9px;
+  width: 133px;
+  height: 34px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 93px;
+  left: 53px;
+  width: 142px;
+  height: 358px;
+}
+.adobe-photoshop {
+  position: absolute;
+  top: 108px;
+  left: 66px;
+  font-weight: 300;
+}
+.frame-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 805px;
+  height: 702px;
+  background-image: url(./public/screenshot-1-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.visual-studio-code {
+  position: absolute;
+  top: 320px;
+  left: 62px;
+  font-weight: 300;
+}
+.adobe-illustrator,
+.adobe-premiere {
+  position: absolute;
+  top: 424px;
+  left: 66px;
+  font-weight: 300;
+}
+.adobe-illustrator {
+  top: 215px;
+  left: 65px;
+}
+.frame-group {
+  position: absolute;
+  top: 295px;
+  left: 1017px;
+  width: 805px;
+  height: 702px;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.e13a32e4ca8f2d3563612647cc3ff0-group {
+  position: absolute;
+  top: -2px;
+  left: 0;
+  width: 1920px;
+  height: 1086px;
+}
+.trang-2 {
+  position: relative;
+  background-color: var(--color-gray-200);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-26xl);
+  color: var(--color-goldenrod);
+  font-family: var(--font-inria-sans);
+}
